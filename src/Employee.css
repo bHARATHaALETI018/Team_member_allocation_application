@@ -1,11 +1,13 @@
 .container{
     width: 80%;
     position: absolute;
+    top: 10%;
     right:0;
     margin: auto auto;
     display: flex;
     flex-direction: column;
-    gap :9px;
+    gap :9px; 
+    z-index: 0;
 }
 .justify-content-center{
     margin: auto auto;
@@ -14,7 +16,8 @@
 }
 .cards_container{
     padding: 9px;
-    background-color: aquamarine;
+    /* background-color: rgba(115, 142, 133, 0.644); */
+    background-color: teal;
     display: flex;
     flex-wrap: wrap;
     gap: 9px;

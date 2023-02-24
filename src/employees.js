@@ -5,7 +5,7 @@ import female from './images/female.jpg'
 const Employees = ({employees, selectedTeam, handelCardSelection, handelTeamSelection})=>{
 
     
-    return (
+return (
 <main className='container'>
   <div className='justify-content-center'>
     <div className='selectTeam'>
