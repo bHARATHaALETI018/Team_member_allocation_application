@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-###`npm install`
+### `npm install`
 To install all the dependencies.
 
 ### `npm start`
